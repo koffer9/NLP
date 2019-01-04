@@ -1,0 +1,18 @@
+Q1. Summarize the reasons of overfitting and underfitting. Put them ingithub repository.
+A1. The possible reasons for overliftting are
+    1> Training data has outliner that model does not to ingore
+    2> Training data is too less or not representing the whole data set
+    3> The model itself is too complex with too much parameters that losing the proper focus
+    The possiblereasons for underliftting are
+    1> Fail to identify the necessary features of the object
+    2> The model is too simple without enough parameters
+
+Q3. Writing down three sceneries that machine learning has been used now.
+A3. 1> Facial fortune teller App recently became popular in Weibo recently. By learning the feature of the face photo the App is trying to predict the personality.
+    2> Medical photo diagnosing, by learning the x-ray photo corellation with cancer, the model could predict cancer by study the x-ray photo feature.
+    3> Matching skills and jobs, by learning the corelation of job opening and candidate skill to match the right candidate with vacancies.
+
+Q4. Come out with three new sceneries with which machine learning may be applied.
+A4. 1> Infectious disease prediction. By learning the feature of infectious disease spread over, could early identify the threshold of infectious disease break out
+    2> Learn the corelation of raining record and aggreculture merchandize product price trend to predict price
+    3> Learn what are important feasuresthat driving a thing to happen.
